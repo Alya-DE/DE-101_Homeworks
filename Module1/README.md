@@ -47,4 +47,4 @@
 ![2](https://github.com/Alya-DE/DE-101_Homeworks/blob/main/Module1/Dashboard-2.png)
 ![3](https://github.com/Alya-DE/DE-101_Homeworks/blob/main/Module1/Dashboard-3.png)
 
-*С файлом можно подробнее ознакомиться [здесь](https://github.com/Alya-DE/DE-101_Homeworks/blob/main/Module1/Dashboard%20-%20Superstore.xlsx).*
+*С файлом можно подробнее ознакомиться [здесь]().*
