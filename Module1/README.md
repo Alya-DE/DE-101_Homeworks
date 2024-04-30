@@ -40,6 +40,4 @@
 ![3](https://github.com/Alya-DE/DE-101_Homeworks/blob/main/Module1/Dashboard-2.png)
 ![4](https://github.com/Alya-DE/DE-101_Homeworks/blob/main/Module1/Dashboard-3.png)
 
-Также немного устаревшая версия **Excel** доставила довольно много проблем из-за постоянно возникающих багов. В частности, когда после первого завершения построения дашборда и загрузки файла на github я решила дополнить метриками KPI, в скаченный файл внести правки не получилось совсем никак, поэтому пришлось перестраивать дашборд заново.
-
 *С файлом можно подробнее ознакомиться [здесь](https://github.com/Alya-DE/DE-101_Homeworks/blob/main/Module1/Dashboard.xlsx).*
